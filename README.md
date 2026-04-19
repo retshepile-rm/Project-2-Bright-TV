@@ -1,2 +1,2 @@
 # Project-2-Bright-TV
-This Repository is a collection of Bright TV viewership analytics.
+This Repository is a collection daily transactional information for Bright_TV. This project presents strategic business challenge focused on expanding the subscriber base.  The project serves as a formal brief for an analyst tasked with examining user profiles and transaction data, identify usage trends and determine which variables most significantly impact how viewers consume content to provide actionable growth insights. The tools that were used in this case study are; Databricks to create SQL script. Microsoft Excel to create Pivotables Miro and Canvor for data visualisations.
